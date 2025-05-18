@@ -3190,7 +3190,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 46.228 39.37 90)
 			(effects
 				(font
@@ -3463,7 +3463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 93.98 72.6948 0)
 			(effects
 				(font
@@ -3732,7 +3732,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 93.98 80.3148 0)
 			(effects
 				(font
@@ -3801,7 +3801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 78.232 82.55 90)
 			(effects
 				(font
@@ -4931,7 +4931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 96.012 77.47 90)
 			(effects
 				(font
@@ -5478,7 +5478,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 40.64 48.768 90)
 			(effects
 				(font
@@ -5538,7 +5538,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10n"
 			(at 54.61 41.91 90)
 			(effects
 				(font
@@ -5546,7 +5546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 50.8 47.9552 0)
 			(effects
 				(font
@@ -5605,7 +5605,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10n"
 			(at 54.61 54.61 90)
 			(effects
 				(font
@@ -5613,7 +5613,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 58.42 58.7248 0)
 			(effects
 				(font
@@ -5747,7 +5747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 76.2 77.978 90)
 			(effects
 				(font
@@ -6027,7 +6027,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 56.642 53.34 90)
 			(effects
 				(font
